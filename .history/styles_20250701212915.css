@@ -92,9 +92,9 @@ main {
 .link {
   color: var(--link-color);
   display: flex;
-  align-items: flex-end;
+  align-items: center;
   justify-content: center;
-  gap: 8px;
+  gap: 5px;
   text-decoration: none;
   border: 1px solid transparent;
   padding: 8px;

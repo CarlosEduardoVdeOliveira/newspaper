@@ -33,9 +33,7 @@ const dataNewspaper = async () => {
                 </time>
               </p>
             </header>
-            <img class="image" src="${newspaper.urlToImage}" alt="${
-            newspaper.title
-          }"/>
+            <img class="image" src="${newspaper.urlToImage}"/>
             <p class="content">
               ${newspaper.content}
             </p>
@@ -45,7 +43,7 @@ const dataNewspaper = async () => {
               </span>
               <a class="link" href="${
                 newspaper.url
-              }" target="_blank">Acesse a matéria completa <i class="fa-solid fa-arrow-right-long"></i></a>
+              }" target="_blank">Acesse a matéria completa -></a>
             </div>
           </article>`
       )
@@ -55,6 +53,7 @@ const dataNewspaper = async () => {
     console.error(error.message);
   }
 };
+
 
 const toggle = document.getElementById("toggleTheme");
 const toggleThemeText = document.getElementById("toggleThemeText");

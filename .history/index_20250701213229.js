@@ -33,9 +33,7 @@ const dataNewspaper = async () => {
                 </time>
               </p>
             </header>
-            <img class="image" src="${newspaper.urlToImage}" alt="${
-            newspaper.title
-          }"/>
+            <img class="image" src="${newspaper.urlToImage}" alt=`${}`/>
             <p class="content">
               ${newspaper.content}
             </p>
