@@ -1,3 +1,4 @@
+
 # 📰 Newspaper
 
 Projeto em JavaScript puro que consome dados da [NewsAPI.org](https://newsapi.org/), exibe notícias em tempo real e permite alternância entre tema **claro** e **escuro**, com preferência salva no navegador.
@@ -22,3 +23,4 @@ Projeto em JavaScript puro que consome dados da [NewsAPI.org](https://newsapi.or
 ├── styles.css # Estilo do site
 ├── index.js # JS com fetch e modo dark
 ├── preview.gif # GIF de demonstração
+
