@@ -19,7 +19,11 @@ Projeto em JavaScript puro que consome dados da [NewsAPI.org](https://newsapi.or
 ## 📁 Estrutura do projeto
 
 /newspaper
+
 ├── index.html # Página principal
+
 ├── styles.css # Estilo do site
+
 ├── index.js # JS com fetch e modo dark
+
 ├── preview.gif # GIF de demonstração
