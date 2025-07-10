@@ -1,7 +1,5 @@
-//const urlApi = "https://newsapi.org/v2/everything?q=keyword&apiKey=90b0a1e6642449088471333a43bcb4c2";
-/* const getArticles = require("./server");
-console.log(getArticles); */
-const urlApi = "http://localhost:3333/articles";
+//const urlApi = "http://localhost:3333/articles";
+const urlApi = "/api/articles";
 function formatDate(isoString) {
   const date = new Date(isoString);
   const formatted = date.toLocaleDateString("pt-BR", {
