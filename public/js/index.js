@@ -1,4 +1,6 @@
-//const urlApi = "http://localhost:3333/articles";
+//Para funcionar local descomente a linha abaixo
+//  const urlApi = "http://localhost:3333/articles";
+//e comente a linha => const urlApi = "/api/articles";
 const urlApi = "/api/articles";
 function formatDate(isoString) {
   const date = new Date(isoString);
