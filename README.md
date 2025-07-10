@@ -16,10 +16,10 @@ Projeto em JavaScript que consome dados da [NewsAPI.org](https://newsapi.org/), 
 - E execute
 
 ```
-  npm instal ou npm i
+  npm instal
 ```
 
-Depois execute: `npm run dev`
+Depois no terminal execute: ```npm run dev```
 
 ### Pelo VScode instale e use a extensão **Live Server** para abrir o arquivo index.html.
 
