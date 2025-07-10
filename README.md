@@ -9,20 +9,20 @@ Projeto em JavaScript que consome dados da [NewsAPI.org](https://newsapi.org/), 
 ## Executando
 
 ```
-   git clone "https://github.com/CarlosEduardoVdeOliveira/newspaper.git"
+git clone https://github.com/CarlosEduardoVdeOliveira/newspaper.git
 ```
 
 - Abra o terminal (cmd) dentro do projeto
 - E execute
 
 ```
-  npm install
+npm install
 ```
 
 Depois no terminal execute:
 
 ```
-  npm run dev
+npm run dev
 ```
 
 ### Pelo VScode instale e use a extensão **Live Server** para abrir o arquivo index.html.
