@@ -1,0 +1,19 @@
+{
+  "name": "newspaper",
+  "version": "1.0.0",
+  "description": "Projeto em JavaScript puro que consome dados da [NewsAPI.org](https://newsapi.org/), exibe notícias em tempo real e permite alternância entre tema **claro** e **escuro**, com preferência salva no navegador.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node --watch src/server/server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.10.0",
+    "cors": "^2.8.5",
+    "express": "^5.1.0"
+  }
+}
