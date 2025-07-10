@@ -2,7 +2,7 @@
 
 Projeto em JavaScript que consome dados da [NewsAPI.org](https://newsapi.org/), exibe notícias em tempo real e permite alternância entre tema **claro** e **escuro**, com preferência salva no navegador.
 
-![Preview do projeto](./src/imgs/preview.gif)
+![Preview do projeto](./public/imgs/preview.gif)
 
 ---
 
@@ -27,7 +27,7 @@ Depois no terminal execute:
 
 ### Pelo VScode instale e use a extensão **Live Server** para abrir o arquivo index.html.
 
-![Executando](./src/imgs/executando.gif)
+![Executando](./public/imgs/executando.gif)
 
 ## 🚀 Funcionalidades
 
